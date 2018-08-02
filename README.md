@@ -15,3 +15,4 @@ Example project with React + Enzyme + Jest
 
 The original example, written by Leland Richardson, can be found at [https://github.com/lelandrichardson/enzyme-example-jest](https://github.com/lelandrichardson/enzyme-example-jest).
 
+# testgitstuff
